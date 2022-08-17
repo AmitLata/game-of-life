@@ -117,7 +117,7 @@
     </profiles>
     <dependencies>
         <dependency>
-            <groupId>com.wakaleo.gameoflife.domain</groupId>
+            <groupId>com.wakaleo.gameoflife</groupId>
             <artifactId>gameoflife-core</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
