@@ -259,7 +259,7 @@
                     <!-- FINDBUGS -->
                     <plugin>
                         <artifactId>findbugs-maven-plugin</artifactId>
-                        <version>1.0.0</version>
+                        <version>0.6.5</version>
                         <configuration>
                             <effort>Max</effort>
                             <xmlOutput>true</xmlOutput>
@@ -337,7 +337,7 @@
                                 <plugin>
                                     <groupId>org.codehaus.mojo</groupId>
                                     <artifactId>findbugs-maven-plugin</artifactId>
-                                    <version>1.0.0</version>
+                                    <version>0.6.5</version>
                                     <configuration>
                                         <effort>Max</effort>
                                         <xmlOutput>true</xmlOutput>
@@ -460,7 +460,7 @@
                     <plugin>
                         <groupId>org.codehaus.mojo</groupId>
                         <artifactId>findbugs-maven-plugin</artifactId>
-                        <version>1.0.0</version>
+                        <version>0.6.5</version>
                         <configuration>
                             <effort>Max</effort>
                             <xmlOutput>true</xmlOutput>
