@@ -427,6 +427,7 @@
                         <artifactId>cobertura-maven-plugin</artifactId>
                         <version>${cobertura.version}</version>
                         <configuration>
+                        <dataFile>${basedir}/target/cobertura.ser</dataFile>
                             <formats>
                                 <format>html</format>
                                 <format>xml</format>
